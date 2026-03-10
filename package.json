@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/salon-cerca-de",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a salon-cerca-de",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/salon-cerca-de.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/salon-cerca-de-mi/"
+    },
+    "homepage": "https://bitcu.co/salon-cerca-de-mi/"
+}
